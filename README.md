@@ -1,52 +1,83 @@
 ﻿<h1 align="center">
-  Frontangie Links | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/rocketseat.svg" width="150px;">
+  Explorer (Fullstack) | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/rocketseat.svg" width="150px;">
 </h1>
 
 <p align="center">
   <img alt="badge html" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/html.svg">
   <img alt="badge css" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/css.svg">
   <img alt="badge javascript" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/d369e43d97e48a84cda8328adbd77b1ba280ebbf/badges/javascript.svg">
+  <img alt="badge typescript" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/typescript.svg">
+  <img alt="badge node" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/871e146d6758e9e2ea5a4d72460badf62c91b79e/badges/node.svg">
+  <img alt="badge jest" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/871e146d6758e9e2ea5a4d72460badf62c91b79e/badges/jest.svg">
+  <img alt="badge sqlite" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/sqlite.svg">
   <img alt="badge github" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/9e4d919f31227382adee08274852a8b8bd308a86/badges/github.svg">
   <img alt="badge figma" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/figma.svg">
   <img alt="badge prettier" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/3da3bd57de686710acb6eeca42e53d3b6327cfaf/badges/prettier-2.svg">
   <img alt="badge vscode" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/visual-studio-code.svg">
+  <img alt="badge react" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/react.svg">
+  <img alt="badge Vite" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/9e4d919f31227382adee08274852a8b8bd308a86/badges/vitejs.svg">
+  <img alt="badge knex" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/knexjs.svg">
 </p>
 
 <p align="center">
-  <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=643162">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/devlinks_rocketseat?color=643162">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/devlinks_rocketseat?color=643162">
+  <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=205263">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/fullstack-explorer_rocketseat?color=205263">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/fullstack-explorer_rocketseat?color=205263">
 </p>
 
 <p align="center">
   <a href="#-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Sobre">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Entre-em-contato">Contato</a>
 </p>
 
 ## 📚 Sobre
 
-_Frontangie Links_ é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais, inspirado no projeto _DevLinks_.
+_Explorer_ é a formação em desenvolvimento _Fullstack_ da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, onde a pessoa estudante aprende do zero as principais linguagens web, domina o desenvolvimento fullstack e conhece tudo que precisa pra iniciar sua carreira em programação.
 
-Esse trabalho é desenvolvido com HTML, CSS e JavaScript no _Discover_, programa da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>.
-
-Acesse o projeto finalizado, online, [aqui](https://angelicaalbuquerque.github.io/devlinks_rocketseat/).
+São apresentadas novas tecnologias na prática, desenvolvendo projetos e cases reais para aprender a lidar com desafios do dia a dia, ganhar experiência e construir um portfólio de brilhar os olhos para se destacar no mercado.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Além de Git e Github, a formação conta com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- Github
-- Figma
+<details>
+  <summary>Backend</summary>
 
-## 🎨 Layout
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Cors](https://www.npmjs.com/package/cors)
+- [SQLite](https://www.sqlite.org/index.html)
+- [KnexJS](http://knexjs.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [VS Code](https://code.visualstudio.com/)
+- [Netlify](https://www.netlify.com/)
+- [Render](https://render.com/)
+- [Jest](https://jestjs.io/pt-BR/)
+</details>
 
-Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/community/file/1187422022288947321), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
+<details>
+  <summary>Frontend</summary>
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Typescript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [React](https://pt-br.reactjs.org/)
+- [styled-components](https://styled-components.com/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [VS Code](https://code.visualstudio.com/)
+
+</details>
+
+## 💻 Projetos
+
+Todos os projetos realizados nesta formação serão publicados neste espaço.
 
 ## 📬 Entre em contato!
 
