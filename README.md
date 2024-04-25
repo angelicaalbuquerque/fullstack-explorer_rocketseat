@@ -13,6 +13,7 @@
   <img alt="badge github" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/9e4d919f31227382adee08274852a8b8bd308a86/badges/github.svg">
   <img alt="badge figma" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/figma.svg">
   <img alt="badge prettier" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/3da3bd57de686710acb6eeca42e53d3b6327cfaf/badges/prettier-2.svg">
+  <img alt="badge styled-components" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/8fa82d31ab106319d191282263aaddd33405ec06/badges/styled-components.svg">
   <img alt="badge vscode" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/visual-studio-code.svg">
   <img alt="badge react" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/react.svg">
   <img alt="badge Vite" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/9e4d919f31227382adee08274852a8b8bd308a86/badges/vitejs.svg">
