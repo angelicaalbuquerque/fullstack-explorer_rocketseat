@@ -35,11 +35,21 @@
 
 ## 📚 Sobre
 
+<div align="left">
+    <img src=".github/rocketseat-explorer-capa.png" width="500"/>
+</div>
+
 _Explorer_ é a formação em desenvolvimento _Fullstack_ da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, onde a pessoa estudante aprende do zero as principais linguagens web, domina o desenvolvimento fullstack e conhece tudo que precisa pra iniciar sua carreira em programação.
 
 São apresentadas novas tecnologias na prática, desenvolvendo projetos e cases reais para aprender a lidar com desafios do dia a dia, ganhar experiência e construir um portfólio de brilhar os olhos para se destacar no mercado.
 
+Para conferir detalhes de todos os módulos da formação, acesse [aqui](https://www.rocketseat.com.br/formacao/fullstack).
+
 ## 🚀 Tecnologias
+
+<div align="left">
+    <img src=".github/rocketseat-html-css-js.svg" width="500"/>
+</div>
 
 Além de Git e Github, a formação conta com as seguintes tecnologias:
 
